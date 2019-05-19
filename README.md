@@ -1,1 +1,0 @@
-# Light-Oj-Solution
